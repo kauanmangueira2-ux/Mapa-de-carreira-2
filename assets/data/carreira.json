@@ -1,0 +1,161 @@
+{
+  "seo": {
+    "title": "Kauan Almeida | Mapa de Carreira em Tecnologia",
+    "description": "Mapa de carreira de Kauan Almeida, com objetivos profissionais, trilha de aprendizagem, habilidades, idiomas e contatos.",
+    "author": "Kauan Almeida",
+    "canonicalUrl": "https://exemplo.com/mapa-de-carreira/"
+  },
+  "profile": {
+    "name": "Kauan Almeida",
+    "headline": "Dados, Business Intelligence e Tecnologia",
+    "photo": "assets/images/profile.jpg",
+    "photoAlt": "Foto profissional de Kauan Almeida",
+    "summary": "Estudante de Ciência da Computação com interesse em dados, tecnologia e resolução de problemas. Busco desenvolver soluções orientadas por dados, combinando aprendizado contínuo, pensamento analítico e colaboração para gerar impacto por meio da tecnologia.",
+    "cvUrl": "#"
+  },
+  "contacts": [
+    {
+      "label": "kauanmangueira2@gmail.com",
+      "url": "mailto:kauanmangueira2@gmail.com"
+    },
+    {
+      "label": "linkedin.com/in/kauan-m-almeida",
+      "url": "https://www.linkedin.com/in/kauan-m-almeida/"
+    },
+    {
+      "label": "github.com/kauanmangueira2-ux",
+      "url": "https://github.com/kauanmangueira2-ux"
+    }
+  ],
+  "careerSteps": [
+    {
+      "title": "Analista de Dados Júnior",
+      "description": "Quero iniciar minha carreira na área de dados, transformando informações em insights que auxiliem na tomada de decisões. Meu objetivo é desenvolver uma base sólida em análise de dados, estatística, visualização e ferramentas de Business Intelligence, participando de projetos que gerem valor para empresas e pessoas. Busco aprender continuamente e evoluir tanto tecnicamente quanto profissionalmente.",
+      "softSkills": [
+        "Comunicação clara para apresentar análises e tirar dúvidas com a equipe.",
+        "Organização para documentar processos e acompanhar demandas.",
+        "Curiosidade para investigar dados e identificar padrões.",
+        "Atenção aos detalhes para evitar erros em relatórios e indicadores.",
+        "Proatividade para buscar conhecimento e aprender novas ferramentas."
+      ],
+      "roadmap": [
+        "Excel",
+        "SQL",
+        "Power BI",
+        "Estatística Básica",
+        "Python para Dados",
+        "Git/GitHub",
+        "Visualização de Dados"
+      ]
+    },
+    {
+      "title": "Analista de Dados Pleno",
+      "description": "Após adquirir experiência, desejo atuar em análises mais complexas, auxiliando equipes e gestores na tomada de decisões estratégicas. Quero aprofundar meus conhecimentos em modelagem de dados, automação e métricas de negócio, gerando insights que contribuam para o crescimento das organizações.",
+      "softSkills": [
+        "Pensamento analítico para transformar dados em informações relevantes.",
+        "Comunicação objetiva para explicar resultados a públicos técnicos e não técnicos.",
+        "Colaboração para trabalhar com diferentes áreas da empresa.",
+        "Gestão de prioridades para lidar com múltiplas demandas simultaneamente.",
+        "Autonomia para conduzir análises e propor melhorias."
+      ],
+      "roadmap": [
+        "SQL Avançado",
+        "Power BI Avançado",
+        "Storytelling com Dados",
+        "Modelagem de Dados",
+        "ETL",
+        "Python para Análise",
+        "Indicadores de Negócio"
+        
+      ]
+    },
+    {
+      "title": "Especialista em Business Intelligence (BI)",
+      "description": "Quero me tornar referência na transformação de dados em conhecimento estratégico, desenvolvendo dashboards, relatórios e soluções que apoiem decisões de alto impacto. Busco unir conhecimento técnico e visão de negócio para gerar resultados por meio dos dados.",
+      "softSkills": [
+        "Visão de negócio para conectar dados aos objetivos da organização.",
+        "Capacidade de influência para defender ideias baseadas em evidências.",
+        "Comunicação estratégica para apresentar análises a gestores e lideranças.",
+        "Resolução de problemas para identificar oportunidades de melhoria.",
+        "Adaptabilidade para acompanhar mudanças em tecnologias e processos."
+      ],
+      "roadmap": [
+        "Data Warehouse",
+        "Engenharia de Dados (Fundamentos)",
+        "Governança de Dados",
+        "Cloud para Dados",
+        "Banco de Dados Avançado",
+        "Power BI Expert",  
+        "Python Avançado"
+      ]
+    },
+     {
+      "title": "Head de Dados / Analytics Manager",
+      "description": "No longo prazo, desejo liderar equipes e estratégias orientadas por dados, ajudando empresas a tomar decisões mais inteligentes e eficientes. Quero unir análise, tecnologia e gestão para gerar impacto nos resultados da organização e no desenvolvimento das pessoas da equipe.",
+      "softSkills": [
+        "Liderança para desenvolver pessoas e fortalecer equipes.",
+        "Comunicação executiva para apresentar estratégias e resultados.",
+        "Tomada de decisão para definir prioridades e direcionamentos.",
+        "Inteligência emocional para lidar com desafios e conflitos.",
+        "Visão estratégica para alinhar dados aos objetivos do negócio."
+      ],
+      "roadmap": [
+        "Gestão de Pessoas",
+        "Liderança de Equipes",
+        "Estratégia de Negócios",
+        "Governança de Dados",
+        "Data Analytics Avançado",
+        "Gestão de Projetos",  
+        "Planejamento Estratégico"
+      ]
+      
+    }
+  ],
+  "skillGroups": [
+    {
+      "title": "Frontend",
+      "skills": [
+        {
+          "name": "HTML, CSS e JavaScript",
+          "level": 90
+        },
+        {
+          "name": "React",
+          "level": 80
+        }
+      ]
+    },
+    {
+      "title": "Backend e dados",
+      "skills": [
+        {
+          "name": "Node.js e APIs",
+          "level": 80
+        },
+        {
+          "name": "SQL",
+          "level": 82
+        }
+      ]
+    }
+  ],
+  "otherSkills": [
+    "Curiosidade",
+    "Pensamento Analítico",
+    "Documentação",
+    "Trabalho em Equipe",
+    "Solução de Problemas",
+    "Aprendizado Contínuo"
+  ],
+  "languages": [
+    {
+      "name": "Portugues",
+      "level": "Nativo"
+    },
+    {
+      "name": "Ingles",
+      "level": "Tecnico"
+    }
+
+  ]
+}
