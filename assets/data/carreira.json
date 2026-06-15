@@ -3,15 +3,15 @@
     "title": "Kauan Almeida | Mapa de Carreira em Tecnologia",
     "description": "Mapa de carreira de Kauan Almeida, com objetivos profissionais, trilha de aprendizagem, habilidades, idiomas e contatos.",
     "author": "Kauan Almeida",
-    "canonicalUrl": "https://exemplo.com/mapa-de-carreira/"
+    "canonicalUrl": "https://kauanalmeida.com/mapa-de-carreira/"
   },
   "profile": {
     "name": "Kauan Almeida",
-    "headline": "Dados, Business Intelligence e Tecnologia",
+    "headline": "Tecnologia, Negócios e Automação",
     "photo": "assets/images/profile.jpg",
     "photoAlt": "Foto profissional de Kauan Almeida",
-    "summary": "Estudante de Ciência da Computação com interesse em dados, tecnologia e resolução de problemas. Busco desenvolver soluções orientadas por dados, combinando aprendizado contínuo, pensamento analítico e colaboração para gerar impacto por meio da tecnologia.",
-    "cvUrl": "#"
+    "summary": "Estudante de Ciência da Computação com interesse em desenvolvimento de software, análise de dados e automação. Busco construir uma carreira que una tecnologia, negócios e inovação, contribuindo para a criação de soluções digitais e para a transformação de processos por meio da tecnologia.",
+    "cvUrl": "https://drive.google.com/drive/folders/1K9Oc3cU22-mDn0TvQDEp6xU288UBXqxl?usp=sharing"
   },
   "contacts": [
     {
@@ -29,84 +29,85 @@
   ],
   "careerSteps": [
     {
-      "title": "Analista de Dados Júnior",
-      "description": "Quero iniciar minha carreira na área de dados, transformando informações em insights que auxiliem na tomada de decisões. Meu objetivo é desenvolver uma base sólida em análise de dados, estatística, visualização e ferramentas de Business Intelligence, participando de projetos que gerem valor para empresas e pessoas. Busco aprender continuamente e evoluir tanto tecnicamente quanto profissionalmente.",
+      "title": "Desenvolvedor Web Júnior / Analista de Dados Júnior",
+      "description": "Quero iniciar minha carreira na área de tecnologia desenvolvendo aplicações web e trabalhando com análise de dados. Meu objetivo é construir uma base sólida em programação, bancos de dados e resolução de problemas, participando de projetos que transformem necessidades em soluções digitais.",
       "softSkills": [
         "Comunicação clara para apresentar análises e tirar dúvidas com a equipe.",
-        "Organização para documentar processos e acompanhar demandas.",
-        "Curiosidade para investigar dados e identificar padrões.",
-        "Atenção aos detalhes para evitar erros em relatórios e indicadores.",
-        "Proatividade para buscar conhecimento e aprender novas ferramentas."
+        "Curiosidade para aprender novas tecnologias e ferramentas.",
+        "Persistência para lidar com erros e desafios técnicos.",
+        "Responsabilidade para cumprir prazos e concluir atividades.",
+        "Trabalho em equipe para colaborar com colegas e compartilhar conhecimento."
       ],
       "roadmap": [
-        "Excel",
+        "Lógica de Programação",
+        "Git e GitHub",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "React",
         "SQL",
-        "Power BI",
-        "Estatística Básica",
-        "Python para Dados",
-        "Git/GitHub",
-        "Visualização de Dados"
+        "Power BI"  
       ]
     },
     {
-      "title": "Analista de Dados Pleno",
-      "description": "Após adquirir experiência, desejo atuar em análises mais complexas, auxiliando equipes e gestores na tomada de decisões estratégicas. Quero aprofundar meus conhecimentos em modelagem de dados, automação e métricas de negócio, gerando insights que contribuam para o crescimento das organizações.",
+      "title": "Analista de Negócios",
+      "description": "Após desenvolver minha base técnica, quero atuar como ponte entre negócio e tecnologia, entendendo necessidades, documentando processos e participando da construção de soluções que gerem valor para usuários e organizações.",
       "softSkills": [
-        "Pensamento analítico para transformar dados em informações relevantes.",
-        "Comunicação objetiva para explicar resultados a públicos técnicos e não técnicos.",
-        "Colaboração para trabalhar com diferentes áreas da empresa.",
-        "Gestão de prioridades para lidar com múltiplas demandas simultaneamente.",
-        "Autonomia para conduzir análises e propor melhorias."
+        "Comunicação clara para entender necessidades e explicar soluções.",
+        "Escuta ativa para compreender diferentes perspectivas.",
+        "Organização para documentar processos e requisitos.",
+        "Pensamento analítico para identificar oportunidades de melhoria.",
+        "Colaboração para trabalhar com diferentes áreas da empresa."
       ],
       "roadmap": [
+        "BPMN",
+        "Levantamento de Requisitos",
+        "Metodologias Ágeis",
+        "Product Discovery",
         "SQL Avançado",
-        "Power BI Avançado",
-        "Storytelling com Dados",
-        "Modelagem de Dados",
-        "ETL",
-        "Python para Análise",
-        "Indicadores de Negócio"
+        "Power BI",
+        "Mapeamento de Processos"
         
       ]
     },
     {
-      "title": "Especialista em Business Intelligence (BI)",
-      "description": "Quero me tornar referência na transformação de dados em conhecimento estratégico, desenvolvendo dashboards, relatórios e soluções que apoiem decisões de alto impacto. Busco unir conhecimento técnico e visão de negócio para gerar resultados por meio dos dados.",
+      "title": "Especialista em Automação e Processos",
+      "description": "Quero atuar na melhoria e automação de processos, utilizando tecnologia para reduzir atividades repetitivas, aumentar a eficiência operacional e apoiar a transformação digital das organizações.",
       "softSkills": [
-        "Visão de negócio para conectar dados aos objetivos da organização.",
-        "Capacidade de influência para defender ideias baseadas em evidências.",
-        "Comunicação estratégica para apresentar análises a gestores e lideranças.",
-        "Resolução de problemas para identificar oportunidades de melhoria.",
-        "Adaptabilidade para acompanhar mudanças em tecnologias e processos."
+        "Capacidade investigativa para identificar gargalos.",
+        "Visão sistêmica para compreender processos completos.",
+        "Proatividade para propor melhorias.",
+        "Comunicação objetiva para alinhar expectativas.",
+        "Adaptabilidade para trabalhar com novas ferramentas."
       ],
       "roadmap": [
-        "Data Warehouse",
-        "Engenharia de Dados (Fundamentos)",
-        "Governança de Dados",
-        "Cloud para Dados",
-        "Banco de Dados Avançado",
-        "Power BI Expert",  
-        "Python Avançado"
+        "UiPath",
+        "Power Automate",
+        "Process Mining",
+        "APIs",
+        "Python",
+        "Integração de Sistemas",  
+        "Automação de Processos"
       ]
     },
      {
-      "title": "Head de Dados / Analytics Manager",
-      "description": "No longo prazo, desejo liderar equipes e estratégias orientadas por dados, ajudando empresas a tomar decisões mais inteligentes e eficientes. Quero unir análise, tecnologia e gestão para gerar impacto nos resultados da organização e no desenvolvimento das pessoas da equipe.",
+      "title": "Líder de Transformação Digital",
+      "description": "Meu objetivo de longo prazo é liderar iniciativas de transformação digital, conectando pessoas, processos e tecnologia para gerar inovação, eficiência e impacto organizacional. Quero contribuir para a criação de soluções que melhorem a forma como empresas e equipes trabalham.",
       "softSkills": [
-        "Liderança para desenvolver pessoas e fortalecer equipes.",
-        "Comunicação executiva para apresentar estratégias e resultados.",
-        "Tomada de decisão para definir prioridades e direcionamentos.",
-        "Inteligência emocional para lidar com desafios e conflitos.",
-        "Visão estratégica para alinhar dados aos objetivos do negócio."
+        "Liderança para desenvolver pessoas e equipes.",
+        "Comunicação estratégica para apresentar ideias e resultados.",
+        "Inteligência emocional para lidar com desafios e mudanças.",
+        "Tomada de decisão para definir prioridades.",
+        "Visão estratégica para conectar tecnologia e negócio."
       ],
       "roadmap": [
-        "Gestão de Pessoas",
+        "Gestão de Projetos",
         "Liderança de Equipes",
-        "Estratégia de Negócios",
-        "Governança de Dados",
-        "Data Analytics Avançado",
-        "Gestão de Projetos",  
-        "Planejamento Estratégico"
+        "Estratégia Digital",
+        "Governança de TI",
+        "Gestão da Mudança",
+        "Business Analytics",  
+        "Inovação e Transformação Digital"
       ]
       
     }
@@ -145,7 +146,8 @@
     "Documentação",
     "Trabalho em Equipe",
     "Solução de Problemas",
-    "Aprendizado Contínuo"
+    "Aprendizado Contínuo",
+    "Mapeamento de Processos"
   ],
   "languages": [
     {
